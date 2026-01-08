@@ -3,3 +3,4 @@ mkdocs-material>=5.1.0
 mkdocs-markdownextradata-plugin
 pymdown-extensions>=7.0
 mdx_truly_sane_lists == 1.2
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
